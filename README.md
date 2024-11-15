@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavya0811&label=Profile%20views&color=0e75b6&style=flat" alt="kavya0811" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kavya0811" alt="kavya0811" /></a> </p>
-
 - 🌱 I’m currently learning **Power BI, SQL, Excel**
 
 - 💬 Ask me about **Power BI, Excel**
